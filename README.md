@@ -5,6 +5,8 @@ git_help
 
 **Github** = an set of interfaces (on the web and your computer) that facilitate project management via Git. You can access much of the power of Git via Github. 
 
+You should be able to get the jist of Git by using Github. Explore the files in this repository and try changing files. Remember to "commit" (see below) your changes that you make!
+
 *Terminology*
 - Repository = a project and associated files from Git 
 - Cloning = copying a repository from one computer (usually a server) to another
