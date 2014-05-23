@@ -19,3 +19,4 @@ git_help
 - Origin = the "other" computer the commits are pushed
 
 *Git Sheet* = http://byte.kde.org/~zrusin/git/git-cheat-sheet-large.png
+
