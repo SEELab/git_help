@@ -1,0 +1,9 @@
+Git Branches
+============
+
+Branching allows users to control how the changes that they make get combined.
+
+A good framework for branching can be found here: http://nvie.com/posts/a-successful-git-branching-model/
+
+Here is a summary of this method:
+- 
