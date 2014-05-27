@@ -15,11 +15,33 @@ You should be able to get the jist of Git by using Github. Explore the files in 
 *Basic Workflow with Git and Github*
 
 1. I suggest working in Github first, but if you want to work on your computer you will need to initiate or clone a repository.
-2. Checkout the proper branch relevant to your project (see [branching](https://github.com/SEELab/git_help/blob/master/branching.md) file in this repository)
+2. Checkout the proper branch relevant to your project (see *Branching* below).
 3. Make changes to files.
-4. Annotate and commit changes (Note: commendline users will need to add changes before committing and then pushing)
-5. Repeat.
+4. Annotate and commit changes (Note: commandline users will need to add changes before committing and then pushing).
+5. Push these changes to the server (usually on Github), which will backup and make these changes available.
+6. Repeat.
 
+*Branching*
+Branching allows users to control how the changes that they make get combined.
+
+A good framework for branching can be found here: http://nvie.com/posts/a-successful-git-branching-model/
+
+*Different Branch Types*
+- Master = the main branch that is the stabile version
+- Develop = the development version of the package
+- Features = branches checked out to add particular things to the package
+- Hotfix = a branch to make a sudden change to the package in emergencies
+
+Here is a summary of this method:
+
+1. Coordinate with collaborators to define a goal
+2. Create or check-out a "Feature" branch from the "Develop" branch (e.g., MKL or fixplotting)
+3. Make the changes you need and consistently add-commit-push these changes with concise commit annotation 
+4. Solving issues/bugs that you have can be aided by using the Github Issues
+5. These Feature level changes will then be integrated into the development version of the package and eventually the Master for the package will be updated by the development version via merging. 
+
+*Pushing*
+This is pretty simple in principle. You want to make your changes available to others, so you need to send your committed changes to a central server, such as Github. This is done automatically on Github.
 
 *Advanced Concepts*
 - Forking = cloning a repository without contributing changes back to the original repository, like sympatric evolution you get something new through isolation
