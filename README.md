@@ -22,3 +22,4 @@ You should be able to get the jist of Git by using Github. Explore the files in 
 
 *Git Sheet* = http://byte.kde.org/~zrusin/git/git-cheat-sheet-large.png
 
+If you have specific questions/comments, please add them in the Issues section of this repository: https://github.com/SEELab/git_help/issues.
