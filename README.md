@@ -1,6 +1,8 @@
 git_help
 ========
 
+Help Videos = https://asciinema.org/~MKLau
+
 Cool way to learn git: www.codeschool.com
 
 **Git** = a tool for managing projects, originally software. You can use Git to track changes made to files in your projects.
