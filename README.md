@@ -1,9 +1,11 @@
 git_help
 ========
 
+Useful links:
+Git's basic tutorial = http://git-scm.com/book/en/Git-Basics
+*Git Sheet* = http://byte.kde.org/~zrusin/git/git-cheat-sheet-large.png
 Help Videos = https://asciinema.org/~MKLau
-
-Cool way to learn git: www.codeschool.com
+Cool way to learn git = www.codeschool.com
 
 **Git** = a tool for managing projects, originally software. You can use Git to track changes made to files in your projects.
 
@@ -54,7 +56,5 @@ This is pretty simple in principle. You want to make your changes available to o
 - Pushing = takes committed changes on one computer (i.e., yours) and combines them with changes on another computer (e.g., a server)
 - Master = the primary branch of a repository, which you can think of as the "stabile" version of the package that everyone should be using
 - Origin = the "other" computer the commits are pushed
-
-*Git Sheet* = http://byte.kde.org/~zrusin/git/git-cheat-sheet-large.png
 
 If you have specific questions/comments, please add them in the Issues section of this repository: https://github.com/SEELab/git_help/issues.
