@@ -2,10 +2,10 @@ git_help
 ========
 
 Useful links:
-Git's basic tutorial = http://git-scm.com/book/en/Git-Basics
-*Git Sheet* = http://byte.kde.org/~zrusin/git/git-cheat-sheet-large.png
-Help Videos = https://asciinema.org/~MKLau
-Cool way to learn git = www.codeschool.com
+- Git's basic tutorial = http://git-scm.com/book/en/Git-Basics
+- Cheat Sheet = http://byte.kde.org/~zrusin/git/git-cheat-sheet-large.png
+- Help Videos = https://asciinema.org/~MKLau
+- Cool way to learn git = www.codeschool.com
 
 **Git** = a tool for managing projects, originally software. You can use Git to track changes made to files in your projects.
 
