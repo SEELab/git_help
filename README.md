@@ -56,5 +56,6 @@ This is pretty simple in principle. You want to make your changes available to o
 - Pushing = takes committed changes on one computer (i.e., yours) and combines them with changes on another computer (e.g., a server)
 - Master = the primary branch of a repository, which you can think of as the "stabile" version of the package that everyone should be using
 - Origin = the "other" computer the commits are pushed
+- Initializing a repo entirely from your local termincal = https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
 
 If you have specific questions/comments, please add them in the Issues section of this repository: https://github.com/SEELab/git_help/issues.
