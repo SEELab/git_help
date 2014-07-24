@@ -59,10 +59,10 @@ This is pretty simple in principle. You want to make your changes available to o
 - Initializing a repo entirely from your local termincal = https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
 
 *Deleting branches on local*
-- "git branch -D branchname"
+- "git branch -D branchName"
 
 *Deleting branches on remote*
-- "git push origin --delete <branchName>"
+- "git push origin --delete branchName"
 - From within github: https://github.com/blog/1377-create-and-delete-branches
 
 If you have specific questions/comments, please add them in the Issues section of this repository: https://github.com/SEELab/git_help/issues.
